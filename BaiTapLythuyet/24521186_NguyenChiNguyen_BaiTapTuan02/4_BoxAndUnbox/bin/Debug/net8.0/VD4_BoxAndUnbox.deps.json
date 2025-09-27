@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VD4_BoxAndUnbox/1.0.0": {
+        "runtime": {
+          "VD4_BoxAndUnbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VD4_BoxAndUnbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\bin\Debug\net8.0\8_StaffManagement.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\bin\Debug\net8.0\8_StaffManagement.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\bin\Debug\net8.0\8_StaffManagement.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\bin\Debug\net8.0\8_StaffManagement.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\bin\Debug\net8.0\8_StaffManagement.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\refint\8_StaffManagement.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\8_StaffManagement.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\8_StaffManagement\obj\Debug\net8.0\ref\8_StaffManagement.dll

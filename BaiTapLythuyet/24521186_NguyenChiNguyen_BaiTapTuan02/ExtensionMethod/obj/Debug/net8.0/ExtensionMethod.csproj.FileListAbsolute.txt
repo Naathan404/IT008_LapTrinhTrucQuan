@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

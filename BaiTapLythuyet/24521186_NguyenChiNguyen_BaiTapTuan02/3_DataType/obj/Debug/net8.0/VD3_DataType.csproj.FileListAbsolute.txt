@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\bin\Debug\net8.0\VD3_DataType.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\bin\Debug\net8.0\VD3_DataType.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\bin\Debug\net8.0\VD3_DataType.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\bin\Debug\net8.0\VD3_DataType.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\bin\Debug\net8.0\VD3_DataType.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\refint\VD3_DataType.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\VD3_DataType.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD3_DataType\obj\Debug\net8.0\ref\VD3_DataType.dll

@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\bin\Debug\net8.0\9_Inheritance.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\bin\Debug\net8.0\9_Inheritance.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\bin\Debug\net8.0\9_Inheritance.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\bin\Debug\net8.0\9_Inheritance.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\bin\Debug\net8.0\9_Inheritance.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\refint\9_Inheritance.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\9_Inheritance.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_02\9_Inheritance\obj\Debug\net8.0\ref\9_Inheritance.dll

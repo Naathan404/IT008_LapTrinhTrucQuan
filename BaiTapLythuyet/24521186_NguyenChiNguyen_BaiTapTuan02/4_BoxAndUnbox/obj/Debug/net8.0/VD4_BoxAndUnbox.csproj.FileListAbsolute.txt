@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\bin\Debug\net8.0\VD4_BoxAndUnbox.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\bin\Debug\net8.0\VD4_BoxAndUnbox.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\bin\Debug\net8.0\VD4_BoxAndUnbox.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\bin\Debug\net8.0\VD4_BoxAndUnbox.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\bin\Debug\net8.0\VD4_BoxAndUnbox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\refint\VD4_BoxAndUnbox.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\VD4_BoxAndUnbox.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD4_BoxAndUnbox\obj\Debug\net8.0\ref\VD4_BoxAndUnbox.dll

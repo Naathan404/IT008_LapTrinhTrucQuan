@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\bin\Debug\net8.0\VD1_HelloWorld.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\bin\Debug\net8.0\VD1_HelloWorld.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\bin\Debug\net8.0\VD1_HelloWorld.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\bin\Debug\net8.0\VD1_HelloWorld.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\bin\Debug\net8.0\VD1_HelloWorld.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\refint\VD1_HelloWorld.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\VD1_HelloWorld.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD1_HelloWorld\obj\Debug\net8.0\ref\VD1_HelloWorld.dll

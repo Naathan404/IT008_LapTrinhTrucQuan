@@ -1,0 +1,14 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\bin\Debug\net8.0\VD2_ConsoleWriteLine.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\bin\Debug\net8.0\VD2_ConsoleWriteLine.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\bin\Debug\net8.0\VD2_ConsoleWriteLine.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\bin\Debug\net8.0\VD2_ConsoleWriteLine.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\bin\Debug\net8.0\VD2_ConsoleWriteLine.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\refint\VD2_ConsoleWriteLine.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\VD2_ConsoleWriteLine.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapLT_01\VD2_ConsoleWriteLine\obj\Debug\net8.0\ref\VD2_ConsoleWriteLine.dll
