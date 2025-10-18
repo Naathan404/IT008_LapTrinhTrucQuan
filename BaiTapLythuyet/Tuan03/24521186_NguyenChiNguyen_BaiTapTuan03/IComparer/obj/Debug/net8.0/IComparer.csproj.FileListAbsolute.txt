@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\bin\Debug\net8.0\IComparer.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\bin\Debug\net8.0\IComparer.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\bin\Debug\net8.0\IComparer.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\bin\Debug\net8.0\IComparer.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\bin\Debug\net8.0\IComparer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\refint\IComparer.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\IComparer.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IComparer\obj\Debug\net8.0\ref\IComparer.dll

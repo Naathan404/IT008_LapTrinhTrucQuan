@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\bin\Debug\net8.0\IEnumerator.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\bin\Debug\net8.0\IEnumerator.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\bin\Debug\net8.0\IEnumerator.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\bin\Debug\net8.0\IEnumerator.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\bin\Debug\net8.0\IEnumerator.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\refint\IEnumerator.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\IEnumerator.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\IEnumerator\obj\Debug\net8.0\ref\IEnumerator.dll

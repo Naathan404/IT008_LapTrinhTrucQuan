@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\bin\Debug\net8.0\Delegates_1.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\bin\Debug\net8.0\Delegates_1.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\bin\Debug\net8.0\Delegates_1.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\bin\Debug\net8.0\Delegates_1.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\bin\Debug\net8.0\Delegates_1.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\refint\Delegates_1.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\Delegates_1.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegates_1\obj\Debug\net8.0\ref\Delegates_1.dll

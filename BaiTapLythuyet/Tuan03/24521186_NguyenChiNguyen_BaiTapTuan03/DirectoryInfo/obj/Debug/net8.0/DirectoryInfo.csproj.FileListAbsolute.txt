@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\refint\DirectoryInfo.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\DirectoryInfo\obj\Debug\net8.0\ref\DirectoryInfo.dll

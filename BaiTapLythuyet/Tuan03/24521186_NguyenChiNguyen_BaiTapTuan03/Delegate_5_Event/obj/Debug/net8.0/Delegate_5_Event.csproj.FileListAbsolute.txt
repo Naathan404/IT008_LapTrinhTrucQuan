@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\bin\Debug\net8.0\Delegate_5_Event.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\bin\Debug\net8.0\Delegate_5_Event.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\bin\Debug\net8.0\Delegate_5_Event.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\bin\Debug\net8.0\Delegate_5_Event.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\bin\Debug\net8.0\Delegate_5_Event.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\refint\Delegate_5_Event.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\Delegate_5_Event.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_5_Event\obj\Debug\net8.0\ref\Delegate_5_Event.dll

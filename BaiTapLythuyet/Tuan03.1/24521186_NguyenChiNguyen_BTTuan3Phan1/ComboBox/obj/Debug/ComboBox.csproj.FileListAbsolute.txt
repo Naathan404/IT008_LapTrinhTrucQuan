@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ComboBox\obj\Debug\ComboBox.exe.config

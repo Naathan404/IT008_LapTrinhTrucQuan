@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\bin\Debug\net8.0\Bai03.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\bin\Debug\net8.0\Bai03.deps.json
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\bin\Debug\net8.0\Bai03.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\bin\Debug\net8.0\Bai03.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\bin\Debug\net8.0\Bai03.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\refint\Bai03.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\Bai03.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB02\24521186_NguyenChiNguyen_LAB02\Bai03\obj\Debug\net8.0\ref\Bai03.dll

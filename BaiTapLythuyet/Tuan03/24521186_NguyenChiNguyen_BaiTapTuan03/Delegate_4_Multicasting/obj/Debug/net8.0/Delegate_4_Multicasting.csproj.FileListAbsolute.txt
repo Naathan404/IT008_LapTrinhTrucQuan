@@ -1,0 +1,15 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\bin\Debug\net8.0\Delegate_4_Multicasting.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\bin\Debug\net8.0\Delegate_4_Multicasting.deps.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\bin\Debug\net8.0\Delegate_4_Multicasting.runtimeconfig.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\bin\Debug\net8.0\Delegate_4_Multicasting.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\bin\Debug\net8.0\Delegate_4_Multicasting.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.AssemblyInfoInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.AssemblyInfo.cs
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.sourcelink.json
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\refint\Delegate_4_Multicasting.dll
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\Delegate_4_Multicasting.genruntimeconfig.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\24521186_NguyenChiNguyen_BaiTapTuan03\Delegate_4_Multicasting\obj\Debug\net8.0\ref\Delegate_4_Multicasting.dll

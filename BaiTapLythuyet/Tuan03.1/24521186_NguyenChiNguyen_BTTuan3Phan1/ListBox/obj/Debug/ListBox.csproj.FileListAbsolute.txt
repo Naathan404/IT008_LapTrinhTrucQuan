@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\bin\Debug\ListBox.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\bin\Debug\ListBox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\ListBox\obj\Debug\ListBox.exe.config
