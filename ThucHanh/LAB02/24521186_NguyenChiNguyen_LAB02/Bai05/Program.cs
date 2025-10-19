@@ -19,7 +19,7 @@ namespace LAB2.Bai05
                 Console.WriteLine("5. Tinh tong gia ban nha pho.");
                 Console.WriteLine("6. Tinh tong gia ban chung cu.");
                 Console.WriteLine("7. Tim kiem nha pho hoac chung cu theo dia diem, gia ban va dien tich.");
-                Console.WriteLine("8. Tim kiem khu dat co dien tich < 100m2 hoac nha pho co dien tich > 60m2 va nam xay dung >= 2019.");
+                Console.WriteLine("8. Tim kiem khu dat co dien tich > 100m2 hoac nha pho co dien tich > 60m2 va nam xay dung >= 2019.");
                 Console.WriteLine("0. Thoat.");
                 Console.Write("Nhap lua chon cua ban: ");
                 string choice = Console.ReadLine();
@@ -46,10 +46,24 @@ namespace LAB2.Bai05
                     case "7":
                         Console.Write("Nhap dia diem can tim: ");
                         string diaDiem = Console.ReadLine();
-                        Console.Write("Nhap gia can tim: ");
-                        int gia = int.Parse(Console.ReadLine());
-                        Console.Write("Nhap dien tich can tim: ");
-                        int dienTich = int.Parse(Console.ReadLine());
+                        long gia;
+                        float dienTich;
+                        while(true)
+                        {
+                            Console.Write("Nhap gia can tim: ");
+                            if (long.TryParse(Console.ReadLine(), out gia) && gia > 0)
+                                break;
+                            else
+                                Console.WriteLine("Gia khong hop le. Vui long nhap lai!");
+                        }
+                        while (true)
+                        {
+                            Console.Write("Nhap dien tich can tim: ");
+                            if (float.TryParse(Console.ReadLine(), out dienTich) && dienTich > 0)
+                                break;
+                            else
+                                Console.WriteLine("Dien tich khong hop le. Vui long nhap lai!");
+                        }
                         Console.Write("Thong tin nha pho hoac chung cu tim duoc:\n");
                         quanLyKinhDoanh.TimKiemNhaPhoHoacChungCuTheoThongTinCungCap(diaDiem, gia, dienTich);
                         break;

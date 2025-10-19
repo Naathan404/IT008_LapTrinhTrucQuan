@@ -50,7 +50,7 @@ namespace LAB2.Bai05
             int soLuong;
             while (true)
             {
-                Console.Write("Nhap so luong thi truong can them: ");
+                Console.Write("Nhap so luong thi truong can them (> 0): ");
                 if (int.TryParse(Console.ReadLine(), out soLuong) && soLuong > 0)
                     break;
                 else
@@ -117,7 +117,7 @@ namespace LAB2.Bai05
             return tongGiaBan;
         }
 
-        public void TimKiemNhaPhoHoacChungCuTheoThongTinCungCap(string diaDiem,long gia, int dienTich)
+        public void TimKiemNhaPhoHoacChungCuTheoThongTinCungCap(string diaDiem,long gia, float dienTich)
         {
             bool found = false;
             foreach(ThiTruongKD thiTruong in _danhSachThiTruong)
