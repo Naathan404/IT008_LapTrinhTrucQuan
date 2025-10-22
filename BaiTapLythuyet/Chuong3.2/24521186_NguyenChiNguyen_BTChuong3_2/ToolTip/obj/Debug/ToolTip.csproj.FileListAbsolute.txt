@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\bin\Debug\ToolTip.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\bin\Debug\ToolTip.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\bin\Debug\ToolTip.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\ToolTip\obj\Debug\ToolTip.pdb

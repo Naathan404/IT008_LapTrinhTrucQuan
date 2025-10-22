@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\bin\Debug\SaveFileExplorer.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\bin\Debug\SaveFileExplorer.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\bin\Debug\SaveFileExplorer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileDialog.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileExplorer.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileExplorer.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileExplorer.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileExplorer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\SaveFileExplorer\obj\Debug\SaveFileExplorer.exe.config

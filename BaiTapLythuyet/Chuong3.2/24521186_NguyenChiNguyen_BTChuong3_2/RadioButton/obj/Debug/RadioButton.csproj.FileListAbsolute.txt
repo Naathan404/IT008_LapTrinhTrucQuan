@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\RadioButton\obj\Debug\RadioButton.exe.config

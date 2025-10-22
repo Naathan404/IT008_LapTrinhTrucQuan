@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\bin\Debug\KeyboardEvent.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\bin\Debug\KeyboardEvent.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\bin\Debug\KeyboardEvent.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\KeyboardEvent\obj\Debug\KeyboardEvent.exe.config

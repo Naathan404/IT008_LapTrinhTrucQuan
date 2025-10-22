@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\MouseEvent\obj\Debug\MouseEvent.exe.config

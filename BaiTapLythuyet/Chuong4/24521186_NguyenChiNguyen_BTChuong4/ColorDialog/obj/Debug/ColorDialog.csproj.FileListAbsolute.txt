@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\bin\Debug\ColorDialog.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\bin\Debug\ColorDialog.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\bin\Debug\ColorDialog.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ColorDialog\obj\Debug\ColorDialog.exe.config

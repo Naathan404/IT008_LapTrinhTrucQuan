@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong3.2\24521186_NguyenChiNguyen_BTChuong3_2\NumericUpDown\obj\Debug\NumericUpDown.exe.config

@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LAB2.Bai05
 {
-    public abstract class ThiTruongKD
+    public class KhuDat
     {
         protected string _diaDiem;
         protected long _giaBan;
@@ -28,6 +24,13 @@ namespace LAB2.Bai05
         {
             get { return _dienTich; }
             set { _dienTich = value; }
+        }
+
+        public string GetLoai() => _loai.ToString();
+
+        public KhuDat()
+        {
+            _loai = Loai.KHU_DAT;
         }
 
         public virtual void Nhap()
@@ -76,15 +79,7 @@ namespace LAB2.Bai05
         }
     }
 
-    public class KhuDat : ThiTruongKD
-    {
-        public KhuDat()
-        {
-            _loai = Loai.KHU_DAT;
-        }
-    }
-
-    public class NhaPho : ThiTruongKD
+    public class NhaPho : KhuDat
     {
         private int _namXayDung;
         private int _soTang;
@@ -150,7 +145,7 @@ namespace LAB2.Bai05
         }
     }
 
-    public class ChungCu : ThiTruongKD
+    public class ChungCu : KhuDat
     {
         private int _tang;
 

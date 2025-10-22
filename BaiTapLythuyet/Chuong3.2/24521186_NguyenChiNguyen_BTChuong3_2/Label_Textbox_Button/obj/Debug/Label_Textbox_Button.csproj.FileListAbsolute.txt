@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\bin\Debug\Label_Textbox_Button.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\bin\Debug\Label_Textbox_Button.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\bin\Debug\Label_Textbox_Button.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan03.1\24521186_NguyenChiNguyen_BTTuan3Phan1\Label_Textbox_Button\obj\Debug\Label_Textbox_Button.exe.config

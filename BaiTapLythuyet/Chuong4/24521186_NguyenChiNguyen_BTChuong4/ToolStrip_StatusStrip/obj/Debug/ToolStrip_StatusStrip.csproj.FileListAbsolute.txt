@@ -1,0 +1,12 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\bin\Debug\ToolStrip_StatusStrip.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\bin\Debug\ToolStrip_StatusStrip.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\bin\Debug\ToolStrip_StatusStrip.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.g.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ToolStrip_StatusStrip\obj\Debug\ToolStrip_StatusStrip.exe.config

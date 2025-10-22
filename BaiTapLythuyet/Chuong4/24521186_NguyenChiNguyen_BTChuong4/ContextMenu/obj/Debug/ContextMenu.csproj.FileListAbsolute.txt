@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\bin\Debug\ContextMenu.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\bin\Debug\ContextMenu.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\bin\Debug\ContextMenu.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\ContextMenu\obj\Debug\ContextMenu.exe.config

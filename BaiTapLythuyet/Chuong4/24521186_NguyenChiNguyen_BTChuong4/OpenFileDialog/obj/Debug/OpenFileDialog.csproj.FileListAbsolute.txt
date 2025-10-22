@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\bin\Debug\OpenFileDialog.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\bin\Debug\OpenFileDialog.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\bin\Debug\OpenFileDialog.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Chuong4\24521186_NguyenChiNguyen_BTChuong4\OpenFileDialog\obj\Debug\OpenFileDialog.pdb
