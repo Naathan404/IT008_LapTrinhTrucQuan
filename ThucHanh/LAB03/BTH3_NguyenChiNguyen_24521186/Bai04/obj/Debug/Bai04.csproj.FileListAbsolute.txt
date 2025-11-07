@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\bin\Debug\Bai04.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\bin\Debug\Bai04.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\bin\Debug\Bai04.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai04\obj\Debug\Bai04.exe.config

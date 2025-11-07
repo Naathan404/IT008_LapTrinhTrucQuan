@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\bin\Debug\Bai08.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\bin\Debug\Bai08.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\bin\Debug\Bai08.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.frmAccountManager.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB03\BTH3_NguyenChiNguyen_24521186\Bai08\obj\Debug\Bai08.exe.config

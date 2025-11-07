@@ -74,7 +74,7 @@ namespace BTTaiLop
             ColorDialog colorDialog = new ColorDialog();
             if (colorDialog.ShowDialog() == DialogResult.OK)
             {
-                this.BackColor = colorDialog.Color;*0
+                this.BackColor = colorDialog.Color;
                      //cai cua so phan so ten gi
 
             }

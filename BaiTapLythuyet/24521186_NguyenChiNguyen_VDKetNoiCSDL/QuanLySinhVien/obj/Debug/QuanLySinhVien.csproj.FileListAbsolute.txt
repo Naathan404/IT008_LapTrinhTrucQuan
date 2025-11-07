@@ -1,0 +1,22 @@
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.FSinhVien.resources
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\nghia\OneDrive\Tài liệu\UIT\HK1_2025-2026\LTTQ\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe.config
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe.config
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.FSinhVien.resources
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\luugi\Desktop\24521186_NguyenChiNguyen_VDKetNoiCSDL\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
