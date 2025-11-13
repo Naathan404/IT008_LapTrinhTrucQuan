@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\bin\Debug\GraphicsObject_2.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\bin\Debug\GraphicsObject_2.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\bin\Debug\GraphicsObject_2.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\GraphicsObject_2\obj\Debug\GraphicsObject_2.exe.config

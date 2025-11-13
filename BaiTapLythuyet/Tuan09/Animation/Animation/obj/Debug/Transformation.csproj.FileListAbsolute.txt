@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\bin\Debug\Transformation.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\bin\Debug\Transformation.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\bin\Debug\Transformation.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\Tuan09\Transformation\Transformation\obj\Debug\Transformation.exe.config

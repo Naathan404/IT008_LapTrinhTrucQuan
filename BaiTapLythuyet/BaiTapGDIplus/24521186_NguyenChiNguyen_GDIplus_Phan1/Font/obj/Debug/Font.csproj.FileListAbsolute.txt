@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\bin\Debug\Font.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\bin\Debug\Font.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\bin\Debug\Font.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\Font\obj\Debug\Font.exe.config

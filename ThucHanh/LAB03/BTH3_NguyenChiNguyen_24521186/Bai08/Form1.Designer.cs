@@ -47,6 +47,8 @@
             this.TTK = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Address = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Balance = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.txbTotal = new System.Windows.Forms.TextBox();
+            this.lblTotal = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -225,7 +227,7 @@
             this.lsvListView.Location = new System.Drawing.Point(12, 295);
             this.lsvListView.MultiSelect = false;
             this.lsvListView.Name = "lsvListView";
-            this.lsvListView.Size = new System.Drawing.Size(776, 293);
+            this.lsvListView.Size = new System.Drawing.Size(776, 260);
             this.lsvListView.TabIndex = 2;
             this.lsvListView.UseCompatibleStateImageBehavior = false;
             this.lsvListView.View = System.Windows.Forms.View.Details;
@@ -234,7 +236,7 @@
             // STT
             // 
             this.STT.Text = "STT";
-            this.STT.Width = 43;
+            this.STT.Width = 31;
             // 
             // STK
             // 
@@ -256,11 +258,39 @@
             this.Balance.Text = "Số tiền";
             this.Balance.Width = 126;
             // 
+            // txbTotal
+            // 
+            this.txbTotal.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txbTotal.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.txbTotal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txbTotal.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txbTotal.Location = new System.Drawing.Point(577, 564);
+            this.txbTotal.Name = "txbTotal";
+            this.txbTotal.ReadOnly = true;
+            this.txbTotal.Size = new System.Drawing.Size(210, 30);
+            this.txbTotal.TabIndex = 3;
+            this.txbTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // lblTotal
+            // 
+            this.lblTotal.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTotal.AutoSize = true;
+            this.lblTotal.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotal.Location = new System.Drawing.Point(476, 564);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(95, 28);
+            this.lblTotal.TabIndex = 4;
+            this.lblTotal.Text = "Tổng tiền";
+            // 
             // frmAccountManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 600);
+            this.Controls.Add(this.lblTotal);
+            this.Controls.Add(this.txbTotal);
             this.Controls.Add(this.lsvListView);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.lblTitle);
@@ -269,6 +299,7 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -293,6 +324,7 @@
         private System.Windows.Forms.ColumnHeader TTK;
         private System.Windows.Forms.ColumnHeader Address;
         private System.Windows.Forms.ColumnHeader Balance;
+        private System.Windows.Forms.TextBox txbTotal;
+        private System.Windows.Forms.Label lblTotal;
     }
 }
-

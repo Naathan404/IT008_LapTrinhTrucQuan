@@ -8,6 +8,7 @@ namespace Bai08
         public frmAccountManager()
         {
             InitializeComponent();
+            UpdateTotal();
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
@@ -19,17 +20,17 @@ namespace Bai08
                 return;
             }
             // Kiểm tra số dư tài khoản có hợp lệ không
-            if (!long.TryParse(txbBalance.Text, out long balance))
+            if (!long.TryParse(txbBalance.Text, out long balance) || balance < 0)
             {
                 MessageBox.Show("Số dư không hợp lệ!");
                 return;
             }
             // Kiểm tra số tài khoản có hợp lệ không
-            if(!long.TryParse(txbAccountNum.Text, out long stk))
+            if(!long.TryParse(txbAccountNum.Text, out long stk) || stk <= 0)
             {
                 MessageBox.Show("Số tài khoản không hợp lệ!");
                 return;
-            }    
+            }
             
             int index = -1;
             bool isExisted = false;
@@ -67,6 +68,7 @@ namespace Bai08
             txbAddress.Text = "";
             txbBalance.Text = "";
             txbName.Text = "";
+            UpdateTotal();
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -84,11 +86,13 @@ namespace Bai08
                     if (res == DialogResult.Yes)
                     {
                         lsvListView.Items.Remove(item);
-                        MessageBox.Show("Xóa tài khoản thành công!");
                         txbAccountNum.Text = "";
                         txbAddress.Text = "";
                         txbBalance.Text = "";
                         txbName.Text = "";
+                        UpdateTotal();
+                        UpdateOrderNumber();
+                        MessageBox.Show("Xóa tài khoản thành công!");
                     }   
                     return;
                 }
@@ -113,6 +117,26 @@ namespace Bai08
         private void btnQuit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void UpdateTotal()
+        {
+            long total = 0;
+            foreach (ListViewItem item in lsvListView.Items)
+            {
+                total += long.Parse(item.SubItems[4].Text);
+            }
+            txbTotal.Text = total.ToString();
+        }
+
+        private void UpdateOrderNumber()
+        {
+            int num = 1;
+            foreach(ListViewItem item in lsvListView.Items)
+            {
+                item.SubItems[0].Text = num.ToString();
+                num++;
+            }
         }
     }
 }

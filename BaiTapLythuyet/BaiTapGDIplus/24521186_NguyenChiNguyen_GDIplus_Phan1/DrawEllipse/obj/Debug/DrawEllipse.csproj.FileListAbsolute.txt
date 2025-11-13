@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\bin\Debug\DrawEllipse.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\bin\Debug\DrawEllipse.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\bin\Debug\DrawEllipse.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawEllipse\obj\Debug\DrawEllipse.exe.config

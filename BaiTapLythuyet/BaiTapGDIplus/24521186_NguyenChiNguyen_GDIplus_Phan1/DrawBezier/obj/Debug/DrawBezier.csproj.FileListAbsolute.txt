@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\bin\Debug\DrawBezier.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\bin\Debug\DrawBezier.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\bin\Debug\DrawBezier.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus\24521186_NguyenChiNguyen_GDIplus_Phan1\DrawBezier\obj\Debug\DrawBezier.exe.config

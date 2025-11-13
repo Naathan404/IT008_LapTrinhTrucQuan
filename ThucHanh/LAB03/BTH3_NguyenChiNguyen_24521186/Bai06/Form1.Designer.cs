@@ -475,6 +475,7 @@
             this.btnMplus.TabIndex = 28;
             this.btnMplus.Text = "M+";
             this.btnMplus.UseVisualStyleBackColor = false;
+            this.btnMplus.Click += new System.EventHandler(this.btnMplus_Click);
             // 
             // btnMS
             // 
@@ -489,6 +490,7 @@
             this.btnMS.TabIndex = 27;
             this.btnMS.Text = "MS";
             this.btnMS.UseVisualStyleBackColor = false;
+            this.btnMS.Click += new System.EventHandler(this.btnMS_Click);
             // 
             // btnMR
             // 
@@ -503,6 +505,7 @@
             this.btnMR.TabIndex = 26;
             this.btnMR.Text = "MR";
             this.btnMR.UseVisualStyleBackColor = false;
+            this.btnMR.Click += new System.EventHandler(this.btnMR_Click);
             // 
             // btnMC
             // 
@@ -517,6 +520,7 @@
             this.btnMC.TabIndex = 25;
             this.btnMC.Text = "MC";
             this.btnMC.UseVisualStyleBackColor = false;
+            this.btnMC.Click += new System.EventHandler(this.btnMC_Click);
             // 
             // txbSubTextbox
             // 
@@ -526,6 +530,7 @@
             this.txbSubTextbox.ReadOnly = true;
             this.txbSubTextbox.Size = new System.Drawing.Size(85, 47);
             this.txbSubTextbox.TabIndex = 29;
+            this.txbSubTextbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // frmCaculator
             // 

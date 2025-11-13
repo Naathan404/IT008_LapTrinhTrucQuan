@@ -11,6 +11,7 @@ namespace Bai06
         string secondOperand = "";
         int? secondOperandFirstIndex = null;
         bool isTypingFirstOperand = true;
+        float? memory = null;
         public frmCaculator()
         {
             InitializeComponent();
@@ -59,6 +60,7 @@ namespace Bai06
             txbMainTextbox.Text += c;
             AddNumberToOperand(c);
         }
+
 
         // OPERATOR BUTTONS //
         #region Operator buttons
@@ -159,6 +161,27 @@ namespace Bai06
 
         private void btnAddSubtract_Click(object sender, EventArgs e)
         {
+            if(secondOperand == "")
+            { 
+                float temp = float.Parse(firstOperand);
+                temp *= -1;
+                string revNum = temp.ToString();
+                
+                btnCE_Click(sender, e);
+                txbMainTextbox.Text = "";
+                txbMainTextbox.Text += revNum;
+                firstOperand = revNum;
+            }
+            else
+            {
+                float temp = float.Parse(secondOperand);
+                temp *= -1;
+                string revNum = temp.ToString();
+
+                btnCE_Click(sender, e);
+                txbMainTextbox.Text += revNum;
+                secondOperand = revNum;
+            }
 
         }
 
@@ -292,6 +315,41 @@ namespace Bai06
                 }
             }
         }
+        private void btnMS_Click(object sender, EventArgs e)
+        {
+            if(float.TryParse(txbMainTextbox.Text, out float value))
+            {
+                memory = value;
+                txbSubTextbox.Text = value.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Lưu vào bộ nhớ thất bại!");
+            }
+        }
+
+
         #endregion
+
+        private void btnMR_Click(object sender, EventArgs e)
+        {
+            if(memory == null)
+                return;
+            txbMainTextbox.Text = memory.ToString();
+        }
+
+        private void btnMC_Click(object sender, EventArgs e)
+        {
+            if(memory == null) return;
+            txbSubTextbox.Text = null;
+            memory = null;
+        }
+
+        private void btnMplus_Click(object sender, EventArgs e)
+        {
+            if(memory == null) return;
+            txbMainTextbox.Text += "+" + memory.ToString();
+            btnEqual_Click(sender, e);
+        }
     }
 }

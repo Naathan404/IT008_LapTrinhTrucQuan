@@ -33,6 +33,7 @@
             // 
             // btnChangeColor
             // 
+            this.btnChangeColor.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnChangeColor.BackColor = System.Drawing.SystemColors.Control;
             this.btnChangeColor.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnChangeColor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

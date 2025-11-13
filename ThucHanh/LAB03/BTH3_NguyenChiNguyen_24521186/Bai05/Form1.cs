@@ -40,6 +40,12 @@ namespace Bai05
             }    
             txbAnswer.Text = (_num1 / _num2).ToString("");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         // Kiểm tra điều kiện nhập
         private bool CheckInput()
         {
