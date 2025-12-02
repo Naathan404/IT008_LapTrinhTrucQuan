@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\bin\Debug\Sprites.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\bin\Debug\Sprites.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\bin\Debug\Sprites.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Sprites\obj\Debug\Sprites.exe.config

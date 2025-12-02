@@ -1,0 +1,12 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\bin\Debug\Bai04_SoanThaoVanBan.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\bin\Debug\Bai04_SoanThaoVanBan.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\bin\Debug\Bai04_SoanThaoVanBan.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.g.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai04_SoanThaoVanBan\obj\Debug\Bai04_SoanThaoVanBan.exe.config

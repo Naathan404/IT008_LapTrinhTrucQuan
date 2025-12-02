@@ -1,0 +1,12 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\bin\Debug\Bai05_QuanLySinhVien.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\bin\Debug\Bai05_QuanLySinhVien.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\bin\Debug\Bai05_QuanLySinhVien.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai05_QuanLySinhVien\obj\Debug\Bai05_QuanLySinhVien.AddNewStudent.resources

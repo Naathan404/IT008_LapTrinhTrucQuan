@@ -1,0 +1,10 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\bin\Debug\Transformation.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\bin\Debug\Transformation.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\bin\Debug\Transformation.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\Transformation\obj\Debug\Transformation.exe.config

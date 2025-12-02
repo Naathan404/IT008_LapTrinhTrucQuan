@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureText", "MeasureText\MeasureText.csproj", "{17B59FF3-C935-44A0-875C-F514752E4A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormat", "StringFormat\StringFormat.csproj", "{77AE7241-0C16-4356-AB15-3EE79AEAC64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B59FF3-C935-44A0-875C-F514752E4A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B59FF3-C935-44A0-875C-F514752E4A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B59FF3-C935-44A0-875C-F514752E4A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B59FF3-C935-44A0-875C-F514752E4A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AE7241-0C16-4356-AB15-3EE79AEAC64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AE7241-0C16-4356-AB15-3EE79AEAC64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AE7241-0C16-4356-AB15-3EE79AEAC64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AE7241-0C16-4356-AB15-3EE79AEAC64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF57D83-737D-4367-8564-E42534A6DE2E}
+	EndGlobalSection
+EndGlobal

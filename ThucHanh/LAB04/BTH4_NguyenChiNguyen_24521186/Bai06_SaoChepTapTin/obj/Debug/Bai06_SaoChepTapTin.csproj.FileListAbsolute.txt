@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\bin\Debug\Bai06_SaoChepTapTin.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\bin\Debug\Bai06_SaoChepTapTin.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\bin\Debug\Bai06_SaoChepTapTin.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai06_SaoChepTapTin\obj\Debug\Bai06_SaoChepTapTin.exe.config

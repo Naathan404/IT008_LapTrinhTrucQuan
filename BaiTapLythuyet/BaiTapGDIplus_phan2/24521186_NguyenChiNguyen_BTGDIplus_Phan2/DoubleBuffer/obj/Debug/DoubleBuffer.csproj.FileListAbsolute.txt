@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\bin\Debug\DoubleBuffer.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\bin\Debug\DoubleBuffer.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\bin\Debug\DoubleBuffer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\DoubleBuffer\obj\Debug\DoubleBuffer.exe.config

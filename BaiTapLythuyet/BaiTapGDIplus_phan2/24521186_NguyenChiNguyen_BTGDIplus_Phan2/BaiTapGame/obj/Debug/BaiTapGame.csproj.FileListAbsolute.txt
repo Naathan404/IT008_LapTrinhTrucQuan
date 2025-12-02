@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\bin\Debug\BaiTapGame.exe.config
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\bin\Debug\BaiTapGame.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\bin\Debug\BaiTapGame.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.exe
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.pdb
+C:\Users\luugi\Desktop\LTTQ\BaiTapLythuyet\BaiTapGDIplus_phan2\24521186_NguyenChiNguyen_BTGDIplus_Phan2\BaiTapGame\obj\Debug\BaiTapGame.exe.config

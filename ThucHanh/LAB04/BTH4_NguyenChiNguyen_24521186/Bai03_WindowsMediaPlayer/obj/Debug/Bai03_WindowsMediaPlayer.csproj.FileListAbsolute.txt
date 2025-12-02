@@ -1,0 +1,16 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\bin\Debug\Bai03_WindowsMediaPlayer.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\bin\Debug\Bai03_WindowsMediaPlayer.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\bin\Debug\Bai03_WindowsMediaPlayer.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB04\BTH4_NguyenChiNguyen_24521186\Bai03_WindowsMediaPlayer\obj\Debug\Bai03_WindowsMediaPlayer.exe.config
