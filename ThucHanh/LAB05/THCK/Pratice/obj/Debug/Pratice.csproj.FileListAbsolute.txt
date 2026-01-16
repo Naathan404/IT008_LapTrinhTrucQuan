@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\bin\Debug\Pratice.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\bin\Debug\Pratice.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\bin\Debug\Pratice.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\LAB05\THCK\Pratice\obj\Debug\Pratice.Form1.resources

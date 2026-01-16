@@ -1,0 +1,11 @@
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\bin\Debug\24521186_NguyenChiNguyen.exe.config
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\bin\Debug\24521186_NguyenChiNguyen.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\bin\Debug\24521186_NguyenChiNguyen.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.csproj.AssemblyReference.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\_24521186_NguyenChiNguyen.Form1.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\_24521186_NguyenChiNguyen.Properties.Resources.resources
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.csproj.GenerateResource.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.csproj.CoreCompileInputs.cache
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.exe
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.pdb
+C:\Users\luugi\Desktop\LTTQ\ThucHanh\24521186_NguyenChiNguyen\24521186_NguyenChiNguyen\obj\Debug\24521186_NguyenChiNguyen.exe.config
